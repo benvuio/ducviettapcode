@@ -1,4 +1,4 @@
-const textConfig = {
+const messages = {
   text1: "Hế lu cô gái đến từ Đồng Tháp!",
   text2: "Trắc nghiệm zui nhaa :)) ",
   text3: "Hôm nay có đi chơi 8/3 không nào :D",
@@ -9,10 +9,10 @@ const textConfig = {
   text8: "Gửi câu trả lời ở đây",
   text9: "Chắc là đang chửi thầm :))",
   text10: "8/3 cũng chỉ là một ngày thôi, còn em thì ngày nào cũng xứng đáng được trân trọng. Không chỉ vì hôm nay đặc biệt, mà vì em vốn dĩ đã xứng đáng. Ít nhất là với anh",
-
   text11: "Hẹn em một ngày không xa mình gặp :D",
   text12: "Okiii",
 };
+
 
 $(document).ready(function () {
   // process bar
