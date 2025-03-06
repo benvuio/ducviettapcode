@@ -10,7 +10,7 @@ const textConfig = {
   text9: "Chắc là đang chửi thầm :))",
   text10: "8/3 cũng chỉ là một ngày thôi, còn em thì ngày nào cũng xứng đáng được trân trọng. Không chỉ vì hôm nay đặc biệt, mà vì em vốn dĩ đã xứng đáng. Ít nhất là với anh",
 
-    "Hẹn em một ngày không xa mình gặp :D",
+  text11: "Hẹn em một ngày không xa mình gặp :D",
   text12: "Okiii",
 };
 
