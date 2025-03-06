@@ -1,4 +1,4 @@
-const messages = {
+const textConfig = {
   text1: "Hế lu cô gái đến từ Đồng Tháp!",
   text2: "Trắc nghiệm zui nhaa :)) ",
   text3: "Hôm nay có đi chơi 8/3 không nào :D",
@@ -12,6 +12,7 @@ const messages = {
   text11: "Hẹn em một ngày không xa mình gặp :D",
   text12: "Okiii",
 };
+
 
 
 $(document).ready(function () {
