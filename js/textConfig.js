@@ -4,7 +4,7 @@ const textConfig = {
     text3: "Hôm nay có đi chơi 8/3 không nào :D",
     text4: "Nếu hông trả lời mà thoát ra thì sẽ bị phạt nhé",
     text5: "Kó",
-    text6: "Có",
+    text6: "Cũng là Kó nhưng màu đỏ",
     text7: "Có gì muốn nói với anh hả?",
     text8: "Gửi câu trả lời ở đây",
     text9: "Chắc là đang chửi thầm :))",
