@@ -8,8 +8,8 @@ const textConfig = {
     text7: "Có gì muốn nói với anh hả?",
     text8: "Gửi câu trả lời ở đây",
     text9: "Chắc là đang chửi thầm :))",
-    text10: "8 tháng 3 đến thật nhanh. Chúc em vui vẻ, an lành, bình yên.",
-    text11: "Hẹn em một ngày không xa mình gặp :D",
+    text10: "Công nhận làm cái này hơi mất thời gian, nhưng mà nếu đổi lại được nụ cười của em thì cũng đáng đấy chứ, chỉ là không biết em có cười không :))",
+    text11: "8/3 vui vẻ nhen cô gái, hẹn em một ngày không xa mình gặp :D",
     text12: "Bấm vào đây tức là đồng ý :))",
   };
   
