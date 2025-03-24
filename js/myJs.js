@@ -126,7 +126,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://www.youtube.com/watch?v=ddaEtFOsFeM";
+            window.location = "https://www.youtube.com/watch?v=8scL5oJX6CM";
           },
         });
       }
